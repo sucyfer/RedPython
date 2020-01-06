@@ -24,5 +24,5 @@ If you don't have pip3 installed and you want to auto-install python3, pip3 and 
 - `$ chmod +x install.sh`
 - `$ sudo ./install.sh`
 
-Supported platforms for bash script: Debian, Ubuntu, Fedora and openSUSE.
+Supported platforms for bash script: **Debian**, **Ubuntu**, **Fedora** and **openSUSE**.
 
