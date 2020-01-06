@@ -2,7 +2,7 @@
 
 # RedPython  ![GitHub](https://img.shields.io/github/license/sucyfer/RedPython?color=%23df2626)  ![Maintenance](https://img.shields.io/maintenance/yes/2020)  [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-All cybersecurity-oriented libraries at one place.  
+All cybersecurity-oriented python3 libraries at one place.  
 Maybe we can say that it's a new Python flavor! :grin:
 
 ## Installation
