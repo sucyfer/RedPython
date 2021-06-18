@@ -18,7 +18,7 @@ future==0.18.2
 html5lib==1.0.1
 hyperlink==19.0.0
 idna==2.8
-impacket==0.9.20
+impacket==0.9.23
 incremental==17.5.0
 isc==2.0
 itsdangerous==1.1.0
